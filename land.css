@@ -1,0 +1,106 @@
+.backgimg{
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/002/393/823/small/gradient-blue-background-free-vector.jpg");
+    width: 100vw;
+    background-size: cover;
+    height: 90vh;
+}
+.iconim{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.header{
+    color: #f8720c;
+    font-size: 23px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.div1{
+    text-align: center;
+}
+.h1head{
+    color: #131313;
+}
+.p1{
+    color: rgb(236, 243, 244);
+}
+.butt{
+    background-color: green;
+    color: azure;
+}
+.login{
+    margin-top: 20px;
+    margin-block-end: 20px;
+    font-size: 20px;
+    color: aqua;
+}
+.sec{
+    background-color: rgb(185, 185, 185);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.bt1
+{
+    text-align: right;
+    background-color: #1c0cf8;
+    text-align: right;
+    text-align-last: right;
+}
+.cl{
+    text-align: center;
+}
+.heade{
+    padding: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.butttt
+{
+    float: right;
+}
+.chatg{
+    margin-left: 10px;
+}
+.box {
+    width: 178px;
+    height: 165px;
+    background-color: #dbebed;
+    border: 1px solid #ccc;
+    padding: 30px;
+    text-align: center;
+    color: hsla(30, 14%, 3%, 0.978);
+    margin: 1px;
+}
+.box1 {
+    width: 600px;
+    height: 290px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #190505;
+    color: #e6e5e5ee;
+    margin-top: 10px;
+}
+.top-right-buttons {
+    float: right;
+}
+  
+.button {
+    display: inline-block;
+    padding: 20px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 10px;
+    text-decoration: none;
+}
+  
+.button:hover {
+    color: #ff0000;
+}
+.main-img{
+    margin-left: 80px;
+    margin-top: 15px;
+    width: 450px;
+    height: 290px;
+}
